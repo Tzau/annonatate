@@ -1,0 +1,254 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tzau.github.io/annonatate/manifests/tzau.github.io/IIIF-MAS-M3/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "The Tale of Genji handscroll",
+  "metadata": [],
+  "description": [
+    {
+      "@value": "Genji monogatari emaki, Handrolle mit Farbe und Tusche auf Papier, Heian Periode, erste H\u00e4lfte 12.Jh.",
+      "@language": "de"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by/3.0/",
+  "attribution": "https://commons.wikimedia.org, Tokugawa Museum, NDL Digital Collections",
+  "sequences": [
+    {
+      "@id": "http://94ec647e-4c4a-4ac9-b7ff-b2151ee562bb",
+      "@type": "sc:Sequence",
+      "label": "Normal Sequence",
+      "canvases": [
+        {
+          "@id": "http://e71174f0-a119-44ac-ab95-3bdb5cfcf8d9",
+          "@type": "sc:Canvas",
+          "label": "Szene aus Kapitel 15 Yomogiu",
+          "height": 2496,
+          "width": 5584,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://1928948b-b196-49d4-8fef-d2fe52819d93",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/75b2a5c8c1a4b36ef521ff8363d071d6.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/75b2a5c8c1a4b36ef521ff8363d071d6.tif",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "native",
+                        "color",
+                        "gray"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "sizeAboveFull",
+                        "rotationBy90s",
+                        "mirroring",
+                        "gray"
+                      ]
+                    }
+                  ]
+                },
+                "height": 2496,
+                "width": 5584
+              },
+              "on": "http://e71174f0-a119-44ac-ab95-3bdb5cfcf8d9"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://f70c5f5e-cf88-498b-a473-246ae0b1130a",
+          "@type": "sc:Canvas",
+          "label": "Ausschnitt der Kalligrafie vom Kapitel 45 Hashihime",
+          "height": 2497,
+          "width": 5408,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://6f03ddf8-288d-4a1b-ae78-6e34f4ce47de",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/fa15b3fe8cf549a5e422363498651506.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/fa15b3fe8cf549a5e422363498651506.tif",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "native",
+                        "color",
+                        "gray"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "sizeAboveFull",
+                        "rotationBy90s",
+                        "mirroring",
+                        "gray"
+                      ]
+                    }
+                  ]
+                },
+                "height": 2497,
+                "width": 5408
+              },
+              "on": "http://f70c5f5e-cf88-498b-a473-246ae0b1130a"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://f6d8aa11-ed83-47ab-b59a-72000bc119d4",
+          "@type": "sc:Canvas",
+          "label": "Szene aus Kapitel 44 Takekawa",
+          "height": 2495,
+          "width": 5486,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://18c4d490-8447-4b1f-9fa0-490c6181478e",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/ea757e9196efb965b784110e48603b52.tif/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/ea757e9196efb965b784110e48603b52.tif",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "native",
+                        "color",
+                        "gray"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "sizeByForcedWh",
+                        "sizeByWh",
+                        "sizeAboveFull",
+                        "rotationBy90s",
+                        "mirroring",
+                        "gray"
+                      ]
+                    }
+                  ]
+                },
+                "height": 2495,
+                "width": 5486
+              },
+              "on": "http://f6d8aa11-ed83-47ab-b59a-72000bc119d4"
+            }
+          ],
+          "related": ""
+        },
+        {
+          "@id": "http://09d94d96-0fcb-436c-a006-4f81ce044365",
+          "@type": "sc:Canvas",
+          "label": "The Tale of Genji handscroll von Fujiwara Takayoshi \u85e4\u539f, \u4f0a\u623f, 1911",
+          "height": 7179,
+          "width": 16810,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://44c2a1fb-061a-48ec-bbd4-76a0d88a415a",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.dl.ndl.go.jp/api/iiif/2590782/R0000020/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.dl.ndl.go.jp/api/iiif/2590782/R0000020",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "sizeByWh"
+                      ]
+                    }
+                  ]
+                },
+                "height": 7164,
+                "width": 8405
+              },
+              "on": "http://09d94d96-0fcb-436c-a006-4f81ce044365#xywh=6469,15,8405,7164"
+            },
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "http://e6a69e38-3663-4785-970e-dbbb660526b5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://www.dl.ndl.go.jp/api/iiif/2590782/R0000021/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://www.dl.ndl.go.jp/api/iiif/2590782/R0000021",
+                  "profile": [
+                    "http://iiif.io/api/image/2/level1.json",
+                    {
+                      "formats": [
+                        "jpg"
+                      ],
+                      "qualities": [
+                        "default"
+                      ],
+                      "supports": [
+                        "regionByPct",
+                        "sizeByWh"
+                      ]
+                    }
+                  ]
+                },
+                "height": 7164,
+                "width": 8405
+              },
+              "on": "http://09d94d96-0fcb-436c-a006-4f81ce044365#xywh=1938,0,8405,7164"
+            }
+          ],
+          "related": ""
+        }
+      ]
+    }
+  ],
+  "structures": [],
+  "viewingDirection": "right-to-left"
+}
